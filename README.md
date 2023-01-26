@@ -8,9 +8,9 @@ Durée : 2 semaine ,
 
 Taches réalisées : Aestorgs ,
 
-Technos utilisées : Reactjs
+Technos utilisées : Reactjs , Bootstrap
 
-Outils et ressources : Reactsjs
+Outils et ressources : Reactsjs , Bootstrap
 
 # Installation
 
