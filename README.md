@@ -14,13 +14,15 @@ Outils et ressources : Reactsjs
 
 # Installation
 
+```bash
 $ npm install
+```
 
 # Running the app
 
+```bash
 $ npm run dev
-
-
+```
 
 # Contexte: but du projet : Crée un film-backend
 
@@ -34,14 +36,18 @@ Technos utilisées : Typescript , Docker , Postgres
 
 Outils et ressources : TypeOrm , Nestjs
 
-
 # Installation
-
+```bash
 $ npm install
+```
 
 # Running the app
 
+```bash
 $ npm run start:dev
+```
 
 # Test
+```bash
 $ npm run test:e2e
+```
