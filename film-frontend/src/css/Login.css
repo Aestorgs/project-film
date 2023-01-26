@@ -1,0 +1,11 @@
+h1 {
+  color: black;
+}
+
+button {
+  margin: 10px;
+}
+
+body {
+  scroll-behavior: auto;
+}
