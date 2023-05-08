@@ -117,7 +117,7 @@ export const Users = () => {
         </div>
       </nav>
 
-      <h2 className="h2Users">Rechercher le film ou serie </h2>
+      <h2 className="h2Users">Search for the film or series</h2>
       <form className="container" onSubmit={films}>
         <div className="form-group">
           <div className="input-group">
